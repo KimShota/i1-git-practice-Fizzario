@@ -3,3 +3,6 @@
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
 Naser Mansour (nmd9736)
+
+Link to forked repo with Mohammad Alkhatib: 
+https://github.com/cs-uh-2012-fall25/i1-git-practice-mohdalkhatib.git
