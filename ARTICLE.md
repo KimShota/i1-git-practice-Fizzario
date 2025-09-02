@@ -3,3 +3,5 @@ This was a fun read on the possible future we can imagine post-the development o
 
 Proof reading:
 Article checked for typos
+
+This was truly a fun read. Absolute Recommend.(Yahyo)
